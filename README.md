@@ -17,12 +17,16 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
+![image](https://raw.githubusercontent.com/sergey-goryushin-qa/cypress.js/main/baseUrl.png)
 
 2. Применение хуков beforeEach и afterEach
+![image](https://raw.githubusercontent.com/sergey-goryushin-qa/cypress.js/main/Each.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
+![image](https://raw.githubusercontent.com/sergey-goryushin-qa/cypress.js/main/data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
+![image](https://raw.githubusercontent.com/sergey-goryushin-qa/cypress.js/main/mainpage.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
